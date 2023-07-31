@@ -1,0 +1,45 @@
+[
+    {
+        "name": "shabu shabu",
+        "address": "2304/123 abd rd",
+        "phone": 1234,
+        "url": "random google map url 1",
+        "list": "japanese",
+        "visited": true
+    },
+    {
+        "name": "sukiyaki",
+        "address": "3932/1234 cbd street",
+        "phone": 235453,
+        "url": "random google map url 2",
+        "list": "japanese",
+        "visited":false
+    },
+    {
+        "name": "sushi",
+        "address": "32112 xyz street",
+        "phone": 234123,
+        "url": "random google map url 3",
+        "list": "japanese",
+        "visited": false
+    },
+    {
+        "name": "la petite",
+        "address": "1234 ijk road",
+        "phone": 23124,
+        "url": "random google map url 4",
+        "list": "french",
+        "visited": true
+    },
+    {
+        "name": "paster shop",
+        "address": "2939 lmn street",
+        "phone": 2341123,
+        "url": "random google map url 5",
+        "list": "french",
+        "visited": false
+    }
+]
+
+
+
