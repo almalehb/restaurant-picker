@@ -1,45 +1,122 @@
 [
     {
-        "name": "shabu shabu",
-        "address": "2304/123 abd rd",
-        "phone": 1234,
-        "url": "random google map url 1",
-        "list": "japanese",
-        "visited": true
-    },
-    {
-        "name": "sukiyaki",
-        "address": "3932/1234 cbd street",
-        "phone": 235453,
-        "url": "random google map url 2",
-        "list": "japanese",
-        "visited":false
-    },
-    {
-        "name": "sushi",
-        "address": "32112 xyz street",
-        "phone": 234123,
-        "url": "random google map url 3",
-        "list": "japanese",
+        "name": "Shabu Shabu",
+        "address": "6787 Second Ave",
+        "phone": 2555996014,
+        "url": "https://www.shabushabu.com",
+        "list": "Japanese",
         "visited": false
     },
     {
-        "name": "la petite",
-        "address": "1234 ijk road",
-        "phone": 23124,
-        "url": "random google map url 4",
-        "list": "french",
+        "name": "Pizzeria Bella",
+        "address": "7027 Walnut St",
+        "phone": 7986739496,
+        "url": "https://www.pizzeriabella.com",
+        "list": "Italian",
         "visited": true
     },
     {
-        "name": "paster shop",
-        "address": "2939 lmn street",
-        "phone": 2341123,
-        "url": "random google map url 5",
-        "list": "french",
+        "name": "Golden Wok",
+        "address": "2584 Fifth Ave",
+        "phone": 3215508075,
+        "url": "https://www.goldenwok.com",
+        "list": "Chinese",
+        "visited": true
+    },
+    {
+        "name": "Burger Heaven",
+        "address": "3689 Elm St",
+        "phone": 2038582243,
+        "url": "https://www.burgerheaven.com",
+        "list": "American",
+        "visited": true
+    },
+    {
+        "name": "Taco Fiesta",
+        "address": "8349 Fifth Ave",
+        "phone": 5627946993,
+        "url": "https://www.tacofiesta.com",
+        "list": "Mexican",
+        "visited": true
+    },
+    {
+        "name": "Sushi Palace",
+        "address": "1684 Pine St",
+        "phone": 6763257268,
+        "url": "https://www.sushipalace.com",
+        "list": "Japanese",
+        "visited": true
+    },
+    {
+        "name": "Noodle House",
+        "address": "8421 Walnut St",
+        "phone": 1913080302,
+        "url": "https://www.noodlehouse.com",
+        "list": "Chinese",
+        "visited": true
+    },
+    {
+        "name": "The Pasta Corner",
+        "address": "950 Cherry Ave",
+        "phone": 6129534442,
+        "url": "https://www.thepastacorner.com",
+        "list": "Italian",
         "visited": false
+    },
+    {
+        "name": "Gyro Grill",
+        "address": "6300 Cedar St",
+        "phone": 2170791913,
+        "url": "https://www.gyrogrill.com",
+        "list": "Greek",
+        "visited": false
+    },
+    {
+        "name": "Bento Box",
+        "address": "4516 Willow Ave",
+        "phone": 3424559398,
+        "url": "https://www.bentobox.com",
+        "list": "Japanese",
+        "visited": false
+    },
+    {
+        "name": "Momo Mania",
+        "address": "9517 Cherry Ave",
+        "phone": 6745748473,
+        "url": "https://www.momomania.com",
+        "list": "Nepalese",
+        "visited": false
+    },
+    {
+        "name": "Fondue Factory",
+        "address": "9564 Ash St",
+        "phone": 5687931359,
+        "url": "https://www.fonduefactory.com",
+        "list": "Swiss",
+        "visited": false
+    },
+    {
+        "name": "Biryani Bistro",
+        "address": "2112 Grove Ave",
+        "phone": 5947177068,
+        "url": "https://www.biryanibistro.com",
+        "list": "Indian",
+        "visited": false
+    },
+    {
+        "name": "Pizza Paradise",
+        "address": "4881 Oak Drive",
+        "phone": 8488302352,
+        "url": "https://www.pizzaparadise.com",
+        "list": "Italian",
+        "visited": false
+    },
+    {
+        "name": "Taco Temple",
+        "address": "1664 Pine St",
+        "phone": 6871917686,
+        "url": "https://www.tacotemple.com",
+        "list": "Mexican",
+        "visited": true
     }
 ]
-
-
-
